@@ -14,11 +14,14 @@ To accomplish this, the child form subscribes to the following events of the mai
 
 When an event occurs, the following methods are used to apply filter values to the child form's **DashboardViewer** control or to perform the data drill-down or drill-up operations:
 
-- [DashboardViewer.SetMasterFilter](https://docs.devexpress.com/DevExpress.DashboardWin.DashboardViewer.SetMasterFilter)
-- [DashboardViewer.SetRange](https://docs.devexpress.com/DevExpress.DashboardWin.DashboardViewer.SetRange)
-- [DashboardViewer.ClearMasterFilter](https://docs.devexpress.com/DevExpress.DashboardWin.DashboardViewer.ClearMasterFilter)
-- [DashboardViewer.PerformDrillDown](https://docs.devexpress.com/DevExpress.DashboardWin.DashboardViewer.PerformDrillDown)
-- [DashboardViewer.PerformDrillUp](https://docs.devexpress.com/DevExpress.DashboardWin.DashboardViewer.PerformDrillUp)
+- [DashboardViewer.SetMasterFilter](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.SetMasterFilter.overloads
+)
+- [DashboardViewer.SetRange](https://docs.devexpress.com//Dashboard/DevExpress.DashboardWin.DashboardViewer.SetRange.overloads
+)
+- [DashboardViewer.ClearMasterFilter](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.ClearMasterFilter(System.String))
+- [DashboardViewer.PerformDrillDown](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.PerformDrillDown.overloads
+)
+- [DashboardViewer.PerformDrillUp](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.PerformDrillUp(System.String))
 
 
 ![](https://github.com/DevExpress-Examples/winforms-dashboard-linked-interactivity/blob/18.1.3%2B/images/winforms-dashboard-linked-interactivity.png)
