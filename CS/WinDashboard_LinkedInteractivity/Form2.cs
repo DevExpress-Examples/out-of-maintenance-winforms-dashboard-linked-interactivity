@@ -10,8 +10,7 @@ namespace WinDashboard_LinkedInteractivity
     public partial class Form2 : DevExpress.XtraEditors.XtraForm
     {
         public new Form1 ParentForm { get; set; }
-        public Form2() : this(null) { }
-
+        
         public Form2(Form1 parentForm)
         {
             InitializeComponent();
