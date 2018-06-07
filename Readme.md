@@ -16,6 +16,7 @@ When an event occurs, the following methods are used to apply filter values to t
 
 - [DashboardViewer.SetMasterFilter](https://docs.devexpress.com/DevExpress.DashboardWin.DashboardViewer.SetMasterFilter)
 - [DashboardViewer.SetRange](https://docs.devexpress.com/DevExpress.DashboardWin.DashboardViewer.SetRange)
+- [DashboardViewer.ClearMasterFilter](https://docs.devexpress.com/DevExpress.DashboardWin.DashboardViewer.ClearMasterFilter)
 - [DashboardViewer.PerformDrillDown](https://docs.devexpress.com/DevExpress.DashboardWin.DashboardViewer.PerformDrillDown)
 - [DashboardViewer.PerformDrillUp](https://docs.devexpress.com/DevExpress.DashboardWin.DashboardViewer.PerformDrillUp)
 
