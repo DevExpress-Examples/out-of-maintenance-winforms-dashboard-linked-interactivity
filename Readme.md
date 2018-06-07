@@ -20,4 +20,4 @@ When an event occurs, the following methods are used to apply filter values to t
 - [DashboardViewer.PerformDrillUp](https://docs.devexpress.com/DevExpress.DashboardWin.DashboardViewer.PerformDrillUp)
 
 
-![](~/images/winforms-dashboard-linked-interactivity.png)
+![](https://github.com/DevExpress-Examples/winforms-dashboard-linked-interactivity/blob/18.1.3%2B/images/winforms-dashboard-linked-interactivity.png)
