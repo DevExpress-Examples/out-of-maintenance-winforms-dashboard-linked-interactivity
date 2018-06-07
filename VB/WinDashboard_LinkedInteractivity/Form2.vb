@@ -10,9 +10,6 @@ Namespace WinDashboard_LinkedInteractivity
         Inherits DevExpress.XtraEditors.XtraForm
 
         Public Shadows Property ParentForm() As Form1
-        Public Sub New()
-            Me.New(Nothing)
-        End Sub
 
         Public Sub New(ByVal parentForm As Form1)
             InitializeComponent()
