@@ -1,3 +1,5 @@
+# How to: Synchronize Master Filter and Drill Down Actions Between Dashboards
+
 This example demonstrates how to synchronize Master Filter and Drill-Down actions between different dashboards.
 
 The main form contains the [Dashboard Designer](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardDesigner) control. The _Show Child Form_ command in the _Example_ group on the _Home_ tab invokes a child form with a [Dashboard Viewer](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer) control.
