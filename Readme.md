@@ -27,3 +27,10 @@ When an event occurs, the following methods are used to apply filter values to t
 
 
 ![](https://github.com/DevExpress-Examples/winforms-dashboard-linked-interactivity/blob/18.1.3%2B/images/winforms-dashboard-linked-interactivity.png)
+
+## Documentation
+
+- [Drill-Down](https://docs.devexpress.com/Dashboard/116913)
+- [WinForms Dashboard Viewer](https://docs.devexpress.com/Dashboard/117122)
+- [Master Filtering](https://docs.devexpress.com/Dashboard/116912)
+- [Interactivity](https://docs.devexpress.com/Dashboard/116692)
