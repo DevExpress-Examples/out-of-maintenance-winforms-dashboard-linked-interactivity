@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form2.cs](./CS/WinDashboard_LinkedInteractivity/Form2.cs) (VB: [Form2.vb](./VB/WinDashboard_LinkedInteractivity/Form2.vb))
+<!-- default file list end -->
+
 # How to: Synchronize Master Filter and Drill Down Actions Between Dashboards
 
 This example demonstrates how to synchronize Master Filter and Drill-Down actions between different dashboards.
@@ -26,11 +32,10 @@ When an event occurs, the following methods are used to apply filter values to t
 - [DashboardViewer.PerformDrillUp](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.PerformDrillUp(System.String))
 
 
-![](https://github.com/DevExpress-Examples/winforms-dashboard-linked-interactivity/blob/18.1.3%2B/images/winforms-dashboard-linked-interactivity.png)
+![](images/winforms-dashboard-linked-interactivity.png)
 
 ## Documentation
 
+- [Synchronize Master Filter and Drill Down Actions Between Dashboards](https://docs.devexpress.com/Dashboard/400078/)
 - [Drill-Down](https://docs.devexpress.com/Dashboard/116913)
-- [WinForms Dashboard Viewer](https://docs.devexpress.com/Dashboard/117122)
 - [Master Filtering](https://docs.devexpress.com/Dashboard/116912)
-- [Interactivity](https://docs.devexpress.com/Dashboard/116692)
