@@ -9,7 +9,7 @@
 * [Form2.cs](./CS/WinDashboard_LinkedInteractivity/Form2.cs) (VB: [Form2.vb](./VB/WinDashboard_LinkedInteractivity/Form2.vb))
 <!-- default file list end -->
 
-# How to: Synchronize Master Filter and Drill Down Actions Between Dashboards
+# Dashboard for WinForms - Synchronize Master Filter and Drill Down Actions Between Dashboards
 
 This example demonstrates how to synchronize Master Filter and Drill-Down actions between different dashboards.
 
