@@ -3,15 +3,16 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T830578)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
+
+# Dashboard for WinForms - Synchronize Master Filter and Drill Down Actions Between Dashboards
+
+This example demonstrates how to synchronize Master Filter and Drill-Down actions between different dashboards.
+
 <!-- default file list -->
 *Files to look at*:
 
 * [Form2.cs](./CS/WinDashboard_LinkedInteractivity/Form2.cs) (VB: [Form2.vb](./VB/WinDashboard_LinkedInteractivity/Form2.vb))
 <!-- default file list end -->
-
-# Dashboard for WinForms - Synchronize Master Filter and Drill Down Actions Between Dashboards
-
-This example demonstrates how to synchronize Master Filter and Drill-Down actions between different dashboards.
 
 The main form contains the [Dashboard Designer](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardDesigner) control. The _Show Child Form_ command in the _Example_ group on the _Home_ tab invokes a child form with a [Dashboard Viewer](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer) control.
 
